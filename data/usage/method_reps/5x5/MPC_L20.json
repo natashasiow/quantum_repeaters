@@ -1,0 +1,918 @@
+{
+    "protocol": "MPC_protocol",
+    "size": 5,
+    "length": 20,
+    "Q_c": 1,
+    "p_op": 1,
+    "loss_dB": 0.2,
+    "timesteps": 5000,
+    "reps": 1000,
+    "users": [
+        [
+            2.0,
+            2.0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            4
+        ],
+        [
+            4,
+            0
+        ],
+        [
+            4,
+            4
+        ]
+    ],
+    "ER": 0.002940700768993251,
+    "links_used": 15.251,
+    "network_data": {
+        "directed": false,
+        "multigraph": false,
+        "graph": {},
+        "nodes": [
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 0,
+                "usage_fraction": 0.0,
+                "id": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 486,
+                "usage_fraction": 0.486,
+                "id": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 361,
+                "usage_fraction": 0.361,
+                "id": [
+                    0,
+                    2
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 506,
+                "usage_fraction": 0.506,
+                "id": [
+                    0,
+                    3
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 0,
+                "usage_fraction": 0.0,
+                "id": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 541,
+                "usage_fraction": 0.541,
+                "id": [
+                    1,
+                    0
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 515,
+                "usage_fraction": 0.515,
+                "id": [
+                    1,
+                    1
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 448,
+                "usage_fraction": 0.448,
+                "id": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 512,
+                "usage_fraction": 0.512,
+                "id": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 519,
+                "usage_fraction": 0.519,
+                "id": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 406,
+                "usage_fraction": 0.406,
+                "id": [
+                    2,
+                    0
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 475,
+                "usage_fraction": 0.475,
+                "id": [
+                    2,
+                    1
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 0,
+                "usage_fraction": 0.0,
+                "id": [
+                    2,
+                    2
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 477,
+                "usage_fraction": 0.477,
+                "id": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 385,
+                "usage_fraction": 0.385,
+                "id": [
+                    2,
+                    4
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 561,
+                "usage_fraction": 0.561,
+                "id": [
+                    3,
+                    0
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 463,
+                "usage_fraction": 0.463,
+                "id": [
+                    3,
+                    1
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 469,
+                "usage_fraction": 0.469,
+                "id": [
+                    3,
+                    2
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 532,
+                "usage_fraction": 0.532,
+                "id": [
+                    3,
+                    3
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 483,
+                "usage_fraction": 0.483,
+                "id": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 0,
+                "usage_fraction": 0.0,
+                "id": [
+                    4,
+                    0
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 489,
+                "usage_fraction": 0.489,
+                "id": [
+                    4,
+                    1
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 375,
+                "usage_fraction": 0.375,
+                "id": [
+                    4,
+                    2
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 530,
+                "usage_fraction": 0.53,
+                "id": [
+                    4,
+                    3
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 0,
+                "usage_fraction": 0.0,
+                "id": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        "links": [
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    0,
+                    0
+                ],
+                "target": [
+                    1,
+                    0
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    0,
+                    0
+                ],
+                "target": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    0,
+                    1
+                ],
+                "target": [
+                    1,
+                    1
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    0,
+                    1
+                ],
+                "target": [
+                    0,
+                    2
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    0,
+                    2
+                ],
+                "target": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    0,
+                    2
+                ],
+                "target": [
+                    0,
+                    3
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    0,
+                    3
+                ],
+                "target": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    0,
+                    3
+                ],
+                "target": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    0,
+                    4
+                ],
+                "target": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    1,
+                    0
+                ],
+                "target": [
+                    2,
+                    0
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    1,
+                    0
+                ],
+                "target": [
+                    1,
+                    1
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    1,
+                    1
+                ],
+                "target": [
+                    2,
+                    1
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    1,
+                    1
+                ],
+                "target": [
+                    1,
+                    2
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    1,
+                    2
+                ],
+                "target": [
+                    2,
+                    2
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    1,
+                    2
+                ],
+                "target": [
+                    1,
+                    3
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    1,
+                    3
+                ],
+                "target": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    1,
+                    3
+                ],
+                "target": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    1,
+                    4
+                ],
+                "target": [
+                    2,
+                    4
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    2,
+                    0
+                ],
+                "target": [
+                    3,
+                    0
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    2,
+                    0
+                ],
+                "target": [
+                    2,
+                    1
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    2,
+                    1
+                ],
+                "target": [
+                    3,
+                    1
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    2,
+                    1
+                ],
+                "target": [
+                    2,
+                    2
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    2,
+                    2
+                ],
+                "target": [
+                    3,
+                    2
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    2,
+                    2
+                ],
+                "target": [
+                    2,
+                    3
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    2,
+                    3
+                ],
+                "target": [
+                    3,
+                    3
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    2,
+                    3
+                ],
+                "target": [
+                    2,
+                    4
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    2,
+                    4
+                ],
+                "target": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    3,
+                    0
+                ],
+                "target": [
+                    4,
+                    0
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    3,
+                    0
+                ],
+                "target": [
+                    3,
+                    1
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    3,
+                    1
+                ],
+                "target": [
+                    4,
+                    1
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    3,
+                    1
+                ],
+                "target": [
+                    3,
+                    2
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    3,
+                    2
+                ],
+                "target": [
+                    4,
+                    2
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    3,
+                    2
+                ],
+                "target": [
+                    3,
+                    3
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    3,
+                    3
+                ],
+                "target": [
+                    4,
+                    3
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    3,
+                    3
+                ],
+                "target": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    3,
+                    4
+                ],
+                "target": [
+                    4,
+                    4
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    4,
+                    0
+                ],
+                "target": [
+                    4,
+                    1
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    4,
+                    1
+                ],
+                "target": [
+                    4,
+                    2
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": false,
+                "age": 0,
+                "source": [
+                    4,
+                    2
+                ],
+                "target": [
+                    4,
+                    3
+                ]
+            },
+            {
+                "length": 20,
+                "Qc": 1,
+                "p_edge": 0.3981071705534972,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    4,
+                    3
+                ],
+                "target": [
+                    4,
+                    4
+                ]
+            }
+        ]
+    }
+}

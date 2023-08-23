@@ -1,0 +1,420 @@
+{
+    "min_usage": 0.3,
+    "num_removed": 10,
+    "protocol": "MPC_protocol",
+    "size": 5,
+    "length": 1,
+    "Q_c": 1,
+    "p_op": 1,
+    "loss_dB": 0.2,
+    "timesteps": 5000,
+    "reps": 1000,
+    "users": [
+        [
+            2.0,
+            2.0
+        ],
+        [
+            0,
+            0
+        ],
+        [
+            0,
+            4
+        ],
+        [
+            4,
+            0
+        ],
+        [
+            4,
+            4
+        ]
+    ],
+    "ER": 0.5324813631522897,
+    "links_used": 14.0,
+    "network_data": {
+        "directed": false,
+        "multigraph": false,
+        "graph": {},
+        "nodes": [
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 0,
+                "usage_fraction": 0.0,
+                "id": [
+                    0,
+                    0
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 0,
+                "usage_fraction": 0.0,
+                "id": [
+                    0,
+                    4
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    1,
+                    0
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    2,
+                    0
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 0,
+                "usage_fraction": 0.0,
+                "id": [
+                    2,
+                    2
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    2,
+                    4
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    3,
+                    0
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    3,
+                    2
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    4,
+                    0
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    4,
+                    1
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    4,
+                    2
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    4,
+                    3
+                ]
+            },
+            {
+                "Qc": 1,
+                "entangled": false,
+                "age": 0,
+                "usage_count": 1000,
+                "usage_fraction": 1.0,
+                "id": [
+                    4,
+                    4
+                ]
+            }
+        ],
+        "links": [
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    0,
+                    0
+                ],
+                "target": [
+                    1,
+                    0
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    0,
+                    4
+                ],
+                "target": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    1,
+                    0
+                ],
+                "target": [
+                    2,
+                    0
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    1,
+                    4
+                ],
+                "target": [
+                    2,
+                    4
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    2,
+                    0
+                ],
+                "target": [
+                    3,
+                    0
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    2,
+                    2
+                ],
+                "target": [
+                    3,
+                    2
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    2,
+                    4
+                ],
+                "target": [
+                    3,
+                    4
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    3,
+                    0
+                ],
+                "target": [
+                    4,
+                    0
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    3,
+                    2
+                ],
+                "target": [
+                    4,
+                    2
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    3,
+                    4
+                ],
+                "target": [
+                    4,
+                    4
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    4,
+                    0
+                ],
+                "target": [
+                    4,
+                    1
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    4,
+                    1
+                ],
+                "target": [
+                    4,
+                    2
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    4,
+                    2
+                ],
+                "target": [
+                    4,
+                    3
+                ]
+            },
+            {
+                "length": 1,
+                "Qc": 1,
+                "p_edge": 0.954992586021436,
+                "entangled": true,
+                "age": 0,
+                "source": [
+                    4,
+                    3
+                ],
+                "target": [
+                    4,
+                    4
+                ]
+            }
+        ]
+    }
+}
